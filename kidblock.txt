@@ -3,7 +3,7 @@
 # youtube
 googlevideo.com
 youtu.be
-youtube
+*.youtube
 youtube-nocookie.com
 youtube.be
 youtube.co.uk
