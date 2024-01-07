@@ -2,25 +2,24 @@
 # most taken from: https://github.com/nextdns/services/tree/main/services
 
 # youtube
-googlevideo.com
-youtu.be
+||googlevideo.com^
+||youtu.be^
 ||youtube^
 ||youtube.com^
-youtube-nocookie.com
-youtube.be
-youtube.co.uk
-youtube.com
-youtube.de
-youtube.fr
-youtube.googleapis.com
-youtube.nl
-youtube.pl
-youtube.hu
-youtubeeducation.com
-youtubegaming.com
-youtubei.googleapis.com
-youtubekids.com
-yt3.ggpht.com
+||youtube-nocookie.com^
+||youtube.be^
+||youtube.co.uk^
+||youtube.de^
+||youtube.fr^
+||youtube.googleapis.com^
+||youtube.nl^
+||youtube.pl^
+||youtube.hu^
+||youtubeeducation.com^
+||youtubegaming.com^
+||youtubei.googleapis.com^
+||youtubekids.com^
+||yt3.ggpht.com^
 ||ytimg.com^
 
 # bereal
