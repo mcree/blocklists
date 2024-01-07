@@ -1,4 +1,5 @@
 # blocklist for kids
+# most taken from: https://github.com/nextdns/services/tree/main/services
 
 # youtube
 googlevideo.com
