@@ -15,12 +15,13 @@ youtube.fr
 youtube.googleapis.com
 youtube.nl
 youtube.pl
+youtube.hu
 youtubeeducation.com
 youtubegaming.com
 youtubei.googleapis.com
 youtubekids.com
 yt3.ggpht.com
-ytimg.com
+||ytimg.com^
 
 # bereal
 bere.al
