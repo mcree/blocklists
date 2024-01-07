@@ -5,6 +5,7 @@
 googlevideo.com
 youtu.be
 ||youtube^
+||youtube.com^
 youtube-nocookie.com
 youtube.be
 youtube.co.uk
