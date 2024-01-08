@@ -174,16 +174,16 @@ signal.org
 textsecure-service.whispersystems.org
 
 # snapchat
-feelinsonice-hrd.appspot.com
-feelinsonice.appspot.com
-sc-analytics.appspot.com
-sc-cdn.net
-sc-gw.com
-sc-jpl.com
-sc-prod.net
-snap-dev.net
-snapads.com
-snapchat.com
+#feelinsonice-hrd.appspot.com
+#feelinsonice.appspot.com
+#sc-analytics.appspot.com
+#sc-cdn.net
+#sc-gw.com
+#sc-jpl.com
+#sc-prod.net
+#snap-dev.net
+#snapads.com
+#snapchat.com
 
 # telegram
 t.me
